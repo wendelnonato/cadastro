@@ -1,5 +1,5 @@
 
-# Cadastro de alunos:
+# Cadastro de alunos :
 
 # Entrada:
 
